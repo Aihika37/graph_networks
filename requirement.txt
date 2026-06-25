@@ -1,0 +1,7 @@
+osmnx
+networkx
+numpy
+requests
+scikit-learn
+folium
+streamlit
