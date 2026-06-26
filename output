@@ -1,0 +1,11 @@
+Loading road network...
+Source: Howrah Railway Station, Kolkata, India
+Destination: Victoria Memorial, Kolkata, India
+Finding route...
+Dijkstra: 0.04929210000000239
+Distance (meters): 6504
+Nodes in route: 35
+A*: 0.02266819999999825
+Distance (meters): 6504
+Nodes in route: 35
+Route saved to route.html
