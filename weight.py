@@ -1,10 +1,6 @@
 import random
 
 class WeightEngine:
-    def __init__(self, traffic_factor=0.5, noise=0.3):
-        self.traffic_factor = traffic_factor
-        self.noise = noise
-
     def weather_multiplier(self,weather):
         multiplier = 1.0
         rain = 0
